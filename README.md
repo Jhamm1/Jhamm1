@@ -5,7 +5,9 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **javascript**
+🚀 Some of my main projects:
+
+- 🔭 I’m currently working on a business idea (MVP project) in React (for the FE), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
 
 - 📫 How to reach me **julianhamm1@gmail.com**
 
