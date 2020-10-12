@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/julian-hamm-71356719/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/julian-hamm-71356719/" height="30" width="40" /></a>
-
 <a href="https://medium.com/@julianhamm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@julianhamm1" height="30" width="40" /></a>
 
 </p>
