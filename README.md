@@ -8,8 +8,8 @@
 🚀 Some of my main projects:
 
 - 🔭 I’m currently working on a business idea (building an MVP) in React (for the FE), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
-- 🔭 Designing my blog website
-- 🔭 Developing my Hamm solutions consultancy website
+- Designing my blog website
+- Developing my Hamm solutions consultancy website
 
 
 ### Find me everywhere
