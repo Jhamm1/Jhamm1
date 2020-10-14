@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dr Julian Hamm</h1>
+<h1 align="center">Hi 👋🏾 💻, I'm Dr Julian Hamm</h1>
 <h3 align="center">A passionate IT professional in the UK</h3>
 
-- 🌱 I’m currently learning **typescript, react, go**
+- 🌱 I’m currently learning **TypeScript, React and Go**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 🚀 Some of my main projects:
 
 - 🔭 I’m currently working on a business idea (building an MVP) in React (for the FE), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
+- 🔭 Designing my blog website
+- 🔭 Developing my Hamm solutions consultancy website
 
-- 📫 How to reach me **julianhamm1@gmail.com**
+
+### Find me everywhere
+- 📫 Email **julianhamm1@gmail.com**
+- 📝 CV
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
