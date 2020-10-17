@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋🏾 💻, I'm Dr Julian Hamm</h1>
+<h1 align="center">Hi 👋🏾, I'm Dr Julian Hamm 💻</h1>
 <h3 align="center">A passionate IT professional in the UK</h3>
 
-- 🌱 I’m currently learning **TypeScript, React and Go**
+- 🌱 I’m currently learning **TypeScript, React, Python and Go**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-🚀 Some of my main projects:
+🚀 Some of my main projects that I'm currently working on:
 
-- 🔭 I’m currently working on a business idea (building an MVP) in React (for the FE), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
-- Designing my blog website
-- Developing my Hamm solutions consultancy website
+- 🔭 I’m currently working on a business idea (building an MVP) in React (for the front-end), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
+- Designing my blog website - building the front-end in React and the back-end in hasura (GraphQL and Postgres) deployed on DigitalOcean
+- Developing my Hamm solutions consultancy website - developing the front-end in React and a serverless back-end, which is deployed on a Kubernetes cluster in DigitalOcean 
 
 
 ### Find me everywhere
