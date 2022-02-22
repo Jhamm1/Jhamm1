@@ -1,20 +1,51 @@
 <h1 align="center">Hi 👋🏾, I'm Dr Julian Hamm 💻</h1>
-<h3 align="center">A passionate IT professional in the UK</h3>
+<h3 align="center">A passionate IT professional in the UK <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h3>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const jhamm = {
+    pronouns: "He" | "Him" | "Dr",
+    code: ["Javascript", "Python", "C#"],
+    askMeAbout: ["web dev", "tech", "app dev", "boxing", "current affairs"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Google Cloud", "Azure"],
+        databases: ["Mongo", "Postgres", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "Cypress", "Hasura", "GraphQL", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building AI-based and FinTech pocs",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+### What I'm currently up to
 
 - 🌱 I’m currently learning **TypeScript, React, Python and Go**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-🚀 Some of my main projects that I'm currently working on:
+🚀 Here are some projects that I'm currently working on:
 
 - 🔭 I’m currently working on a business idea (building an MVP) in React (for the front-end), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
-- Designing my blog website - building the front-end in React and the back-end in hasura (GraphQL and Postgres) deployed on DigitalOcean
+- Designing my blog website - building the front-end in React and the back-end in hasura (GraphQL and Postgres) deployed on DigitalOcean/Netlify
 - Developing my Hamm solutions consultancy website - developing the front-end in React and a serverless back-end, which is deployed on a Kubernetes cluster in DigitalOcean 
 
+### 📫 Like to meet me?
+
+Pick an available slot if you'd like to meet me and chat about anything you are passionate about - please ensure to describe the agenda of the meeting.
+
+<a href="https://calendly.com/julianhamm/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### Find me everywhere
 - 📫 Email **julianhamm1@gmail.com**
 - 📝 CV
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
