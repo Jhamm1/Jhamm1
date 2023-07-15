@@ -11,10 +11,11 @@ const jhamm = {
     askMeAbout: ["web dev", "tech", "app dev", "boxing", "current affairs"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "TypeScript" "Fastify", "Express"],
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Google Cloud", "Azure"],
+        cloudProviders: ["AWS", "Google Cloud", "Azure","DigitalOcean"],
         databases: ["Mongo", "Postgres", "MySql", "sqlite"],
+        devops: ["K8s", "Docker🐳", "Ansible", "Chef", "Puppet", "Terraform"],
         misc: ["Firebase", "Socket.IO", "Cypress", "Hasura", "GraphQL", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
