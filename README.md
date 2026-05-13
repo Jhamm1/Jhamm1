@@ -1,65 +1,89 @@
-<h1 align="center">Hi 👋🏾, I'm Dr Julian Hamm 💻</h1>
-<h3 align="center">A passionate IT professional in the UK <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h3>
+<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build">
+  <img src="https://img.shields.io/badge/security-hardened-blue" alt="Security">
+  <a href="https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License: DrJay">
+  </a>
+</p>
 
+<img src="public/assets/me.jpg" width="200" alt="Dr Julian Hamm" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h1>Dr Julian Hamm</h1>
 
-```javascript
-const jhamm = {
-    pronouns: "He" | "Him" | "Dr",
-    code: ["Javascript", "Python", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "boxing", "current affairs"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "TypeScript" "Fastify", "Express"],
-        },
-        cloudProviders: ["AWS", "Google Cloud", "Azure","DigitalOcean"],
-        databases: ["Mongo", "Postgres", "MySql", "sqlite"],
-        devops: ["K8s", "Docker🐳", "Ansible", "Chef", "Puppet", "Terraform"],
-        misc: ["Firebase", "Socket.IO", "Cypress", "Hasura", "GraphQL", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building AI-based and FinTech pocs",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Technical+Leader+%7C+AI+%26+Engineering+leadership+%3BCloud-Native+Architect%3BEngineering+Strategy+%26+Delivery%3BBuilding+the+future%2C+one+system+at+a+time" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/julian-hamm-71356719/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://julianhamm.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:julianhamm1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://calendly.com/julianhamm/meeting"><img src="https://img.shields.io/badge/Book%20a%20Meeting-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+</p>
+
+</div>
+
+<p align="center">
+	<a href="https://buymeacoffee.com/julianhammh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+---
+
+Technology leader with a track record of building and scaling engineering organisations across start-up, scale-up, and enterprise. I specialise in platform modernisation and engineering leadership — from hands-on architecture to C-suite strategy — delivering scalable, enterprise-grade platforms for millions of customers globally. Data-driven by research background, metrics-led by practice: I treat internal engineering capability as a product, build high-performing teams, and align technical direction to measurable business outcomes.
+
+---
+
+```typescript
+const julian = {
+  title:      "Technical Leader",
+  pronouns:   ["He", "Him", "Dr"],
+  location:   "United Kingdom",
+
+  focus: [
+    "AI product development",
+    "FinTech platforms",
+    "Cloud-native architecture",
+    "Engineering leadership",
+  ],
+
+  stack: {
+    languages:    ["TypeScript", "Python", "JavaScript", "Go", "C#"],
+    backend:      ["Node.js", "Fastify", "Express"],
+    data:         ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
+    cloud:        ["AWS", "GCP", "Azure", "DigitalOcean"],
+    infra:        ["Kubernetes", "Docker", "Terraform", "Ansible"],
+    integrations: ["GraphQL", "Firebase", "Socket.IO", "Hasura"],
+  },
+
+  architecture: [
+    "Serverless & event-driven systems",
+    "Microservices & API design",
+    "Progressive web applications",
+  ],
+
+  principle: "Simplicity is the ultimate sophistication. Ship, learn, iterate.",
 };
 ```
 
-### What I'm currently up to
+----
 
-- 🌱 I’m currently learning **TypeScript, React, Python and Go**
+### Achievements
 
-- 👯 I’m looking to collaborate on **open source projects**
+<div align="center">
 
-🚀 Here are some projects that I'm currently working on:
+<img src="https://github-profile-trophy.vercel.app/?username=jhamm1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 
-- 🔭 I’m currently working on a business idea (building an MVP) in React (for the front-end), NodeJS (for the severless BE) and MongoDB deployed in DigitalOcean
-- Designing my blog website - building the front-end in React and the back-end in hasura (GraphQL and Postgres) deployed on DigitalOcean/Netlify
-- Developing my Hamm solutions consultancy website - developing the front-end in React and a serverless back-end, which is deployed on a Kubernetes cluster in DigitalOcean 
+</div>
 
-### 📫 Like to meet me?
+---
 
-Pick an available slot if you'd like to meet me and chat about anything you are passionate about - please ensure to describe the agenda of the meeting.
+### Let's talk
 
-<a href="https://calendly.com/julianhamm/meeting" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+If you're building something ambitious in AI or FinTech, or need a senior technical voice — I'm interested.
 
-### Find me everywhere
-- 📫 Email **julianhamm1@gmail.com**
-- 📝 CV
+<div align="center">
 
+<a href="https://calendly.com/julianhamm/meeting" target="_blank">
+  <img src="https://img.shields.io/badge/Book%20a%2030min%20call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+</a>
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-  
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://www.linkedin.com/in/julian-hamm-71356719/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/julian-hamm-71356719/" height="30" width="40" /></a>
-<a href="https://medium.com/@julianhamm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@julianhamm1" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+</div>
